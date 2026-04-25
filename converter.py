@@ -1,7 +1,7 @@
 import os
 from tkinter import Tk, filedialog
 
-# vtt stt 변환 (실잘적)
+# vtt stt 변환 (실질적)
 def convert_vtt_to_srt(vtt_file, output_dir): #실질적 변환 함수
 
     with open(vtt_file, 'r', encoding='utf-8') as file:                                     #vtt 파일 읽기
