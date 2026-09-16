@@ -1,5 +1,15 @@
 # vtt_to_srt_converter
-영상 관련 일 취미로 하고 있는데 vtt는 인코딩이 안 되길래 변환기 만듬
-<br/>
+영상 관련 일 취미로 하고 있는데 vtt는 인코딩이 안 되길래 변환기 만들었습니다. 
 
-[이 링크를 통해 exe 파일을 다운하실 수 있습니다.](https://drive.google.com/drive/folders/1J_XnPvKp-26L0jTVK8Y14iGKqPHkcuyl?usp=sharing)
+<br>
+
+### 이 프로그램은 python 3.14 버젼에서 작성되었습니다.  
+따라서 그보다 낮은 버젼에선 정확하게 작동하지 아니할 수 있으며 이에 대한 대처는 어려운점 양해 부탁드립니다.
+
+- - -
+
+
+### 목차
+1. [python 으로 시작하기](#python-으로-시작하기)
+2. [exe 로 시작하기](#exe-로-시작하기)
+3. 
