@@ -43,10 +43,13 @@
 
 </br>
 </br>
-그 다음 <code>.vtt</code> 파일을 고른 후 .srt 파일이 출력될 폴더를 고르시면 됩니다.
+그 다음 <code>.vtt</code> 파일을 고른 후 .srt 파일이 출력될 폴더를 고르시면 됩니다.   
 </br>
 </br>
-<img src="https://github.com/peropero1111/vtt_to_srt_converter/blob/main/img/2026-09-16%20231854.png?raw=true" width="450" height="450"/><img src="https://github.com/peropero1111/vtt_to_srt_converter/blob/main/img/2026-09-16%20231854.png?raw=true" width="450" height="450"/> 
+( 굳이 한개씩 고르실 필요 없이 여러개 고르셔도 동일하게 동작합니다.)
+</br>
+</br>
+<img src="https://github.com/peropero1111/vtt_to_srt_converter/blob/main/img/2026-09-16%20231817.png?raw=true" width="450" height="450"/><img src="https://github.com/peropero1111/vtt_to_srt_converter/blob/main/img/2026-09-16%20231854.png?raw=true" width="450" height="450"/> 
 
 
 
