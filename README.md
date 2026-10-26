@@ -18,7 +18,8 @@
 
 ## python 으로 시작하기
 <br>
-먼저 이 레퍼지토리 를 zip 파일로 다운하신 뒤 <code>converter.py</code>를 편하신 ide 에서 열어주십시오
+
+먼저 [releases](https://github.com/peropero1111/vtt_to_srt_converter/releases/tag/v1.0.0) 에서 converter.py 를 다운 하신뒤 편하신 ide 에서 열어주십시오.
 <br>
 <br>
 
@@ -27,7 +28,7 @@
 ## exe 로 시작하기
 <br>
 
-[이 링크를 통해](https://drive.google.com/drive/folders/1QnEglaxZhwIP6_-X57JxMZkDydHMXXC6?usp=sharing) exe 파일을 다운 받으십시오.
+[releases](https://github.com/peropero1111/vtt_to_srt_converter/releases/tag/v1.0.0) 에서  vtt_to_srt_converter.exe 파일을 다운 받으십시오.
 <br>
 <br>
 
